@@ -1,0 +1,22 @@
+{
+  "name": "iapyang-eslint",
+  "version": "1.0.0",
+  "description": "eslint configure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iapyang@github.com/iapYang/iapyang-eslint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "iapyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iapYang/iapyang-eslint/issues"
+  },
+  "homepage": "https://github.com/iapYang/iapyang-eslint#readme"
+}
