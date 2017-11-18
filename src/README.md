@@ -14,7 +14,7 @@
 #### npm安装
 
 ```bash
-npm i iapyang-eslint -D
+npm i iapyang-eslint babel-eslint eslint -D
 ```
 
 #### 新建`.eslintrc`文件
