@@ -1,8 +1,38 @@
+[![GitHub issues](https://img.shields.io/github/issues/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/issues)
+[![GitHub forks](https://img.shields.io/github/forks/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/network)
+[![GitHub stars](https://img.shields.io/github/stars/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/stargazers)
+
+[![NPM](https://nodei.co/npm/iapyang-eslint.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/iapyang-eslint/)
+
+[![NPM](https://nodei.co/npm-dl/iapyang-eslint.png?months=3&height=2)](https://nodei.co/npm/iapyang-eslint/)
 ## 前言
 
-本配置是根据前人总结结合个人使用后的一套修改品，没有FB的那么变态。具体使用方法，我会在上传到NPM上后和大家分享的，就目前来说你们可以直接复制用。
+本配置是根据前人总结结合个人使用后的一套修改品。
 
-## ESlint配置
+## 用法
+
+#### npm安装
+
+```bash
+npm i iapyang-eslint -D
+```
+
+#### 新建`.eslintrc`文件
+
+```javascript
+{
+    "extends": "./node_modules/iapyang-eslint/.eslintrc",
+    "rules": {
+      	// 此处添加或复写你自己的rules，以下是事例
+        "no-underscore-dangle": 0,
+        "prefer-rest-params": 0,
+        "no-plusplus": 0,
+        "max-len": 0
+    }
+}
+```
+
+## eslint配置
 
 ```javascript
 {

@@ -11,4 +11,5 @@ archive
 archive.zip
 *.log
 dev
+src
 starter
