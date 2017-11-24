@@ -1,10 +1,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/issues)
 [![GitHub forks](https://img.shields.io/github/forks/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/network)
 [![GitHub stars](https://img.shields.io/github/stars/iapYang/iapyang-eslint.svg?style=flat-square)](https://github.com/iapYang/iapyang-eslint/stargazers)
+[![npm](https://img.shields.io/npm/dt/iapyang-eslint.svg?style=flat)](https://www.npmjs.com/package/iapyang-eslint)
 
 [![NPM](https://nodei.co/npm/iapyang-eslint.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/iapyang-eslint/)
 
-[![NPM](https://nodei.co/npm-dl/iapyang-eslint.png?months=3&height=2)](https://nodei.co/npm/iapyang-eslint/)
 ## 前言
 
 本配置是根据前人总结结合个人使用后的一套修改品。
